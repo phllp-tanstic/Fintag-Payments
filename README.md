@@ -1,35 +1,30 @@
-# Fintag-Payments
-Fintag Product Documentation
+---
+icon: hand-wave
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+metaLinks:
+  alternates:
+    - https://app.gitbook.com/s/yE16Xb3IemPxJWydtPOj/
+---
 
-Welcome to the official Fintag documentation.
-Fintag is an identity-first crypto payments and token infrastructure that lets users and developers move value using human‑readable handles instead of wallet addresses. Our mission is simple: replace wallet addresses with identity and bring crypto natively into social communication.
+# Welcome
 
-What is Fintag?
-Fintag allows users to send, receive, and manage digital assets directly inside social platforms like Telegram using simple identity tags (e.g. #username). No copy‑paste wallet addresses. No additional apps. Crypto payments finally feel like messaging.
+Welcome to the GitBook starter template! Here you'll get an overview of all the amazing features GitBook offers to help you build beautiful, interactive documentation.
 
-On the infrastructure side, Fintag provides APIs and SDKs that enable developers to integrate identity‑based payments, token transfers, swaps, and on‑chain interactions into their own products.
+You'll see some of the best parts of GitBook in action — and find help on how you can turn this template into your own.
 
-Core Features
-Identity-Based Payments
-Send crypto using Fintag handles instead of wallet addresses.
+### Jump right in
 
-Social-Native Transfers
-Native support for chat-based payments (starting with Telegram).
-
-Solana-Native Infrastructure
-Built on Solana for speed, low fees, and composability.
-
-SPL Token Support
-Transfer SOL and SPL tokens seamlessly.
-
-Instant Swaps
-Built-in swapping for supported assets.
-
-Bulk & Group Payments
-Send tokens to multiple users or group chats in one action.
-
-Developer SDKs & APIs
-Open tooling for builders to integrate Fintag into apps, bots, and platforms.
-
-Tagscan
-Resolve, verify, and inspect Fintag identities and on-chain activity.
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h4><i class="fa-bolt">:bolt:</i></h4></td><td><strong>Quickstart</strong></td><td>Create your first site</td><td></td><td></td><td><a href="getting-started/quickstart.md">quickstart.md</a></td></tr><tr><td><h4><i class="fa-leaf">:leaf:</i></h4></td><td><strong>Editor basics</strong></td><td>Learn the basics of GitBook</td><td></td><td></td><td><a href="https://github.com/GitbookIO/gitbook-templates/blob/main/product-docs/broken-reference/README.md">https://github.com/GitbookIO/gitbook-templates/blob/main/product-docs/broken-reference/README.md</a></td></tr><tr><td><h4><i class="fa-globe-pointer">:globe-pointer:</i></h4></td><td><strong>Publish your docs</strong></td><td>Share your docs online</td><td></td><td></td><td><a href="getting-started/publish-your-docs.md">publish-your-docs.md</a></td></tr></tbody></table>
