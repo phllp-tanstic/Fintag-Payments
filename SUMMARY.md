@@ -19,6 +19,7 @@
 
 * [Telegram Bot](products/telegram-bot.md)
 * [Whatsapp Agent](products/whatsapp-agent.md)
+* [Tagscan Explorer](products/tagscan-explorer.md)
 * [Fintag Handles](products/fintag-handles.md)
 * [Token](products/token.md)
 
