@@ -13,7 +13,7 @@
 * [Why Fintag](overview/markdown.md)
 * [Key concepts](overview/images-and-media.md)
 * [Whitepaper](overview/whitepaper.md)
-* [Roadmap](overview/roadmap.md)
+* [Roadmap - Q1 2026](overview/roadmap-q1-2026.md)
 
 ## Products
 

@@ -1,6 +1,6 @@
-# Roadmap
+# Roadmap - Q1 2026
 
-## Product Roadmap - 2026 Q1
+## Product Roadmap&#x20;
 
 Q1 2026 marks Fintag’s transition from beta to full mainnet execution. The focus is on launching the protocol and token, expanding social-native payment distribution, and activating creator and business monetization. With mainnet live, new products across Telegram, WhatsApp, and Solana Mobile will drive adoption, while referral mechanics and business tools accelerate organic growth toward 25,000 users.<br>
 
