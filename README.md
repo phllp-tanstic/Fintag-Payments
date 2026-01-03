@@ -1,5 +1,4 @@
 ---
-icon: hand-wave
 layout:
   width: default
   title:
@@ -21,10 +20,16 @@ metaLinks:
 
 # Welcome
 
-Welcome to the GitBook starter template! Here you'll get an overview of all the amazing features GitBook offers to help you build beautiful, interactive documentation.
+Welcome to the official **Fintag** documentation.
 
-You'll see some of the best parts of GitBook in action — and find help on how you can turn this template into your own.
+Fintag is an identity-first crypto payments and token infrastructure that lets users and developers move value using human‑readable handles instead of wallet addresses. \
+\
+Our mission is simple: **replace wallet addresses with identity and bring crypto natively into social communication.**
+
+On the infrastructure side, Fintag provides APIs and SDKs that enable developers to integrate identity‑based payments, token transfers, swaps, and on‑chain interactions into their own products.
 
 ### Jump right in
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h4><i class="fa-bolt">:bolt:</i></h4></td><td><strong>Quickstart</strong></td><td>Create your first site</td><td></td><td></td><td><a href="getting-started/quickstart.md">quickstart.md</a></td></tr><tr><td><h4><i class="fa-leaf">:leaf:</i></h4></td><td><strong>Editor basics</strong></td><td>Learn the basics of GitBook</td><td></td><td></td><td><a href="https://github.com/GitbookIO/gitbook-templates/blob/main/product-docs/broken-reference/README.md">https://github.com/GitbookIO/gitbook-templates/blob/main/product-docs/broken-reference/README.md</a></td></tr><tr><td><h4><i class="fa-globe-pointer">:globe-pointer:</i></h4></td><td><strong>Publish your docs</strong></td><td>Share your docs online</td><td></td><td></td><td><a href="getting-started/publish-your-docs.md">publish-your-docs.md</a></td></tr></tbody></table>
+
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h4><i class="fa-file-doc">:file-doc:</i></h4></td><td><strong>Overview</strong></td><td>Core concepts, product vision, whitepaper, roadmap, and how Fintag works.</td><td><a href=".gitbook/assets/photo_2026-01-02_23-23-13.jpg">photo_2026-01-02_23-23-13.jpg</a></td><td></td><td><a href="/broken/pages/aOjs4gC5WzIpifbjuGsn">Broken link</a></td></tr><tr><td><h4><i class="fa-head-side-gear">:head-side-gear:</i></h4></td><td><strong>User Guide</strong></td><td>Step-by-step guides to get started and use Fintag across supported platforms.</td><td><a href=".gitbook/assets/photo_2026-01-02_22-19-14.jpg">photo_2026-01-02_22-19-14.jpg</a></td><td></td><td><a href="/broken/pages/PbYb0GukRhiS4qCHdRal">Broken link</a></td></tr><tr><td><h4><i class="fa-square-code">:square-code:</i></h4></td><td><strong>SDK &#x26; APIs</strong></td><td>Everything developers need to build with Fintag, from setup to production.</td><td><a href=".gitbook/assets/photo_2026-01-02_22-22-29.jpg">photo_2026-01-02_22-22-29.jpg</a></td><td></td><td><a href="https://dev.fintag.io/">https://dev.fintag.io/</a></td></tr></tbody></table>

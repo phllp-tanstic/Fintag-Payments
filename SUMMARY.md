@@ -4,13 +4,24 @@
 
 ## Getting Started
 
-* [Quickstart](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
+* [Quickstart](getting-started/publish-your-docs.md)
+* [FAQ](getting-started/quickstart.md)
 
-## Basics
+## Overview
 
-* [Editor](basics/editor.md)
-* [Markdown](basics/markdown.md)
-* [Images & media](basics/images-and-media.md)
-* [Interactive blocks](basics/interactive-blocks.md)
-* [Integrations](basics/integrations.md)
+* [Introduction](overview/editor.md)
+* [Why Fintag](overview/markdown.md)
+* [Key concepts](overview/images-and-media.md)
+* [Whitepaper](overview/whitepaper.md)
+* [Roadmap](overview/roadmap.md)
+
+## Products
+
+* [Telegram Bot](products/telegram-bot.md)
+* [Whatsapp Agent](products/whatsapp-agent.md)
+* [Fintag Handles](products/fintag-handles.md)
+* [Token](products/token.md)
+
+***
+
+* [Contact Us](contact-us.md)

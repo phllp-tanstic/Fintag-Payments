@@ -1,5 +1,4 @@
 ---
-icon: bolt
 layout:
   width: default
   title:
@@ -19,22 +18,94 @@ metaLinks:
     - https://app.gitbook.com/s/yE16Xb3IemPxJWydtPOj/getting-started/quickstart
 ---
 
-# Quickstart
+# FAQ
 
-<figure><img src="https://gitbookio.github.io/onboarding-template-images/quickstart-hero.png" alt=""><figcaption></figcaption></figure>
+Explore our **Fintag FAQ** to find answers to commonly asked questions. Uncover key insights about what Fintag is, how it ensures robust security for your transactions, and the ways you can connect with other users through the platform’s vibrant community features.
 
-Beautiful documentation starts with the content you create — and GitBook makes it easy to get started with any pre-existing content.
+<details>
 
-{% hint style="info" %}
-Want to learn about writing content from scratch? Head to the [Basics](../basics/editor.md) section to learn more.
-{% endhint %}
+<summary>What is Fintag?</summary>
 
-### Import
+Fintag allows users to send, receive, and manage digital assets directly inside social platforms like Telegram using simple identity tags (e.g. #username). No copy‑paste wallet addresses. No additional apps. Crypto payments finally feel like messaging.
 
-GitBook supports importing content from many popular writing tools and formats. If your content already exists, you can upload a file or group of files to be imported.
+</details>
 
-<div data-full-width="false"><figure><img src="https://gitbookio.github.io/onboarding-template-images/quickstart-import.png" alt=""><figcaption></figcaption></figure></div>
+<details>
 
-### Sync a repository
+<summary>Is  Fintag custodial?</summary>
 
-GitBook also allows you to set up a bi-directional sync with an existing repository on GitHub or GitLab. Setting up Git Sync allows you and your team to write content in GitBook or in code, and never have to worry about your content becoming out of sync.
+No. Fintag is non-custodial by default. Users retain full control of their funds through their linked wallets. Fintag does not hold user assets.
+
+</details>
+
+<details>
+
+<summary>What makes Fintag different from other platform like wallet apps?</summary>
+
+Fintag is built around identity, not wallet addresses. By enabling crypto payments through simple handles inside social platforms, Fintag delivers a fast, low-cost, and non-custodial experience that feels as intuitive as messaging.
+
+</details>
+
+<details>
+
+<summary>How to get started?</summary>
+
+To get started with Fintag, [create ](https://t.me/fintag_bot)your Fintag handle, connect a compatible wallet, and fund it with SOL or supported tokens. Once set up, you can send and receive crypto using simple handles directly inside supported social platforms—no wallet addresses required.
+
+</details>
+
+<details>
+
+<summary>What assets can I send with Fintag?</summary>
+
+You can send SOL and supported SPL tokens. Asset support will continue to expand as the platform evolves.
+
+</details>
+
+<details>
+
+<summary>Where can I use Fintag?</summary>
+
+Fintag is designed for social-native use, starting with platforms like Telegram. Support for additional platforms and integrations is planned.
+
+</details>
+
+<details>
+
+<summary>How fast are transactions?</summary>
+
+Transactions are executed on Solana, providing near-instant settlement with minimal fees.
+
+</details>
+
+<details>
+
+<summary>Is Fintag secure?</summary>
+
+Yes. Fintag relies on on-chain execution, cryptographic identity resolution, and standard wallet security models. Users always approve transactions from their own wallets.
+
+</details>
+
+<details>
+
+<summary>Is Fintag-production ready?</summary>
+
+Fintag is actively evolving. While core functionality is live, new features, tools, and integrations are continuously being rolled out.
+
+</details>
+
+<details>
+
+<summary>Where can I get support and updates?</summary>
+
+You can explore the documentation, join Fintag’s community channels, or follow official announcements for updates and support.
+
+</details>
+
+<details>
+
+<summary>Is Fintag open to partnerships?</summary>
+
+Yes. Fintag actively supports integrations with wallets, apps, and platforms looking to enable identity-based crypto payments.
+
+</details>
