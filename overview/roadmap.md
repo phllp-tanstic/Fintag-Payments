@@ -1,8 +1,85 @@
 # Roadmap
 
-Fintag envisions a world where transacting cryptocurrencies is as simple as sending a message: users can Tag their contacts with unique identifiers linked to their Solana wallets, facilitating swift and secure transfers. This simplicity allows for seamless Transactions, from personal payments to commercial exchanges, all recorded transparently on the Solana blockchain. Ultimately, Fintag's vision is to make micro-transactions, such as Tipping creators or friends, an intuitive and integrated part of daily digital life, breaking down barriers to entry for cryptocurrency adoption and enhancing social commerce.
+## Product Roadmap - 2026 Q1
 
-We envision a future where users can effortlessly Tag, Tip, and Transact Solana directly within their favorite social platforms like Telegram and, eventually, X. Our core aim is to empower individuals and businesses with instant, secure, and transparent on-chain payments. This streamlined approach facilitates seamless Transactions for everything from peer-to-peer payments to commercial exchanges, while also fostering a culture of instant gratification of decentralized finance into everyday digital interactions.
+Q1 2026 marks Fintag’s transition from beta to full mainnet execution. The focus is on launching the protocol and token, expanding social-native payment distribution, and activating creator and business monetization. With mainnet live, new products across Telegram, WhatsApp, and Solana Mobile will drive adoption, while referral mechanics and business tools accelerate organic growth toward 25,000 users.<br>
 
-### Product Roadmap
 
+
+{% stepper %}
+{% step %}
+### January 2026 — Mainnet and Core Infrastructure
+
+**Mainnet Launch**
+
+* Deploy Fintag protocol on Solana mainnet
+* Enable production identity resolution and payments
+* Migrate existing beta users to mainnet
+
+**Token Generation Event (TGE)**
+
+* Launch the Fintag token
+* Enable on-chain utility and protocol incentives
+* Activate initial token mechanics aligned with usage
+
+**Tagscan Mainnet Support**
+
+* Full transaction visibility for mainnet activity
+* Identity-based transaction tracking via Tagscan
+{% endstep %}
+
+{% step %}
+### February 2026 — Product Expansion and Creators Economy
+
+**Fintag Boost (Creator Tipping)**
+
+* Launch creator tipping system using Fintag handles
+
+**WhatsApp Agent (Beta)**
+
+* Release Fintag WhatsApp agent in beta
+* Enable identity-based payments within WhatsApp chats
+* Collect early feedback and usage metrics
+
+**Referral System (On-Chain)**
+
+* Launch referral program with on-chain attribution
+* Track referrals transparently via smart contracts
+* Incentivize organic user growth
+{% endstep %}
+
+{% step %}
+### March 2026 — Business Tools and Distribution
+
+**Fintag Business Tools**
+
+* Business analytics dashboard
+* QR-based Fintag payments
+* Simple payout tools for vendors and teams
+
+**Micro-Business & Vendor Onboarding**
+
+* Onboard micro-businesses and digital vendors
+* Enable social-native payments for small merchants
+* Support community and creator-led commerce
+
+**Fintag dApp v1 (Solana Mobile)**
+
+* Launch Fintag dApp v1 optimized for Solana Mobile
+* Support privacy-focused transactions
+* Improve mobile-first user experience
+{% endstep %}
+{% endstepper %}
+
+>
+>
+> #### **Q1 2026 Milestone Goals**
+>
+> * Reach **25,000 active users**
+> * Establish Fintag as a mainnet-ready, identity-first payment layer
+> * Expand beyond peer-to-peer into creator and business use cases
+> * Lay the foundation for cross-platform and ecosystem growth
+
+{% hint style="info" %}
+Timelines may adjust as features are tested and shipped.
+{% endhint %}
